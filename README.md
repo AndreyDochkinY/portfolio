@@ -55,7 +55,7 @@ https://www.figma.com/proto/9gKpSSt0VvjqWkwJutIXJF/%D0%9A%D0%BB%D0%B8%D0%BA%D0%B
 
 https://edu.postgrespro.ru/bookings.pdf
 
-**Решение бизнес задач компании**
+**Решение бизнес-задач компании**
 
 *№1 Выведите названия самолётов, которые имеют менее 50 посадочных мест.*
 
